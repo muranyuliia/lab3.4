@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+D:\lab3.4\Project1\Project1.cpp(16,9): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\lab3.4\Project1\Project1.cpp(16,40): warning C4804: '>=': unsafe use of type 'bool' in operation
+D:\lab3.4\Project1\Project1.cpp(16,50): error C2059: syntax error: '||'
